@@ -20,13 +20,13 @@ const productData = [
     category_id: 4,
   },
   {
-    product_name: 'Belts',
+    product_name: 'Cds',
     price: 22.99,
     stock: 55,
     category_id: 3,
   },
   {
-    product_name: 'Pants',
+    product_name: 'Sports Shorts',
     price: 29.99,
     stock: 22,
     category_id: 2,
