@@ -17,7 +17,7 @@ Connects to a MySQL database using the MySQL2 and Sequelize packages.
 Stores sensitive data, like a user’s MySQL username, password, and database name, using environment variables through the dotenv package.
 Syncs Sequelize models to a MySQL database on the server start.
 
-![INSTALLATION](/Users/chrismugisha/Desktop/E-commerce/img/screenshot1.png)
+![INSTALLATION](img/screenshot1.png)
 
 
 
