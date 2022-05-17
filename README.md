@@ -27,6 +27,9 @@ Syncs Sequelize models to a MySQL database on the server start.
 ## SEEDS:
 ![SEEDS](img/seeds.png)
 
+##DEMO
+https://github.com/Mugisha27/E-commerce/issues/1#issue-1238082493
+
 
 
 
