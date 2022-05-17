@@ -19,6 +19,7 @@ Syncs Sequelize models to a MySQL database on the server start.
 ![INSTALLATION](img/screenshot1.png)
 
 Models:
+![Models](img/models.png)
 
 
 
