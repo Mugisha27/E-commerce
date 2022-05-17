@@ -8,6 +8,8 @@ SO THAT my company can compete with other e-commerce companies
 
 ## TABLE OF CONTENTS
 - [INSTALLATION](#installation)
+- [MODELS](#Models)
+- [SEEDS](#seeds)
 - [LICENSE](#license)
 - [QUESTIONS](#questions)
 
@@ -18,8 +20,14 @@ Syncs Sequelize models to a MySQL database on the server start.
 
 ![INSTALLATION](img/screenshot1.png)
 
-Models:
-![Models](img/models.png)
+## MODELS:
+![MODELS](img/models.png)
+
+
+## SEEDS:
+![SEEDS](img/seeds.png)
+
+
 
 
 
